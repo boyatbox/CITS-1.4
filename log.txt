@@ -1,0 +1,330 @@
+2020-04-19 14:47:16:04S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main main:Launching Cognizant Intelligent Test Scripter IDE
+2020-04-19 14:47:17:04S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-04-19 14:47:18:04S +0530 [INFO] com.cognizant.cognizantits.engine.drivers.ChromeEmulators load:Loading ChromeEmulators from file
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/home/m/Documents/Docker-CITS/CITS-UI/1.4/lib/slf4j-nop-1.7.28.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/home/m/Documents/Docker-CITS/CITS-UI/1.4/lib/slf4j-simple-1.7.10.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.slf4j.helpers.NOPLoggerFactory]
+2020-04-19 14:48:17:04S +0530 [SEVERE] com.cognizant.cognizantits.datalib.component.utils.FileUtils getRecords:File [/home/m/Documents/Docker-CITS/CITS-UI/1.4/Projects/Bing/TestPlan/NewScenario/NewTestCase.csv] doesn't exist
+2020-04-19 14:48:17:04S +0530 [SEVERE] com.cognizant.cognizantits.datalib.component.utils.FileUtils getRecords:File [/home/m/Documents/Docker-CITS/CITS-UI/1.4/Projects/Bing/TestLab/NewRelease/NewTestSet.csv] doesn't exist
+2020-04-19 14:48:46:04S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-04-19 14:52:52:04S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main finish:Cognizant Intelligent Test Scripter IDE has been Terminated - [ Total Time : 0:05:35.800 ]
+2020-04-19 14:53:01:04S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main main:Launching Cognizant Intelligent Test Scripter IDE
+2020-04-19 14:53:02:04S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-04-19 14:53:03:04S +0530 [INFO] com.cognizant.cognizantits.engine.drivers.ChromeEmulators load:Loading ChromeEmulators from file
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/home/m/Documents/Docker-CITS/CITS-UI/1.4/lib/slf4j-nop-1.7.28.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/home/m/Documents/Docker-CITS/CITS-UI/1.4/lib/slf4j-simple-1.7.10.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.slf4j.helpers.NOPLoggerFactory]
+2020-04-19 14:53:08:04S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main finish:Cognizant Intelligent Test Scripter IDE has been Terminated - [ Total Time : 0:00:07.703 ]
+2020-04-19 14:57:10:04S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main main:Launching Cognizant Intelligent Test Scripter IDE
+2020-04-19 14:57:11:04S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-04-19 14:57:12:04S +0530 [INFO] com.cognizant.cognizantits.engine.drivers.ChromeEmulators load:Loading ChromeEmulators from file
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/home/m/Documents/Docker-CITS/CITS-UI/1.4/lib/slf4j-nop-1.7.28.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/home/m/Documents/Docker-CITS/CITS-UI/1.4/lib/slf4j-simple-1.7.10.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.slf4j.helpers.NOPLoggerFactory]
+2020-04-19 15:00:41:04S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main finish:Cognizant Intelligent Test Scripter IDE has been Terminated - [ Total Time : 0:03:30.678 ]
+2020-04-19 15:01:17:04S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main main:Launching Cognizant Intelligent Test Scripter IDE
+2020-04-19 15:01:18:04S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-04-19 15:01:19:04S +0530 [INFO] com.cognizant.cognizantits.engine.drivers.ChromeEmulators load:Loading ChromeEmulators from file
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/home/m/Documents/Docker-CITS/CITS-UI/1.4/lib/slf4j-nop-1.7.28.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/home/m/Documents/Docker-CITS/CITS-UI/1.4/lib/slf4j-simple-1.7.10.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.slf4j.helpers.NOPLoggerFactory]
+2020-04-19 15:01:36:04S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-04-19 15:03:17:04S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-04-19 15:03:31:04S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main finish:Cognizant Intelligent Test Scripter IDE has been Terminated - [ Total Time : 0:02:13.885 ]
+2020-04-19 15:07:32:04S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main main:Launching Cognizant Intelligent Test Scripter IDE
+2020-04-19 15:07:33:04S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-04-19 15:07:34:04S +0530 [INFO] com.cognizant.cognizantits.engine.drivers.ChromeEmulators load:Loading ChromeEmulators from file
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/home/m/Documents/Docker-CITS/CITS-UI/1.4/lib/slf4j-nop-1.7.28.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/home/m/Documents/Docker-CITS/CITS-UI/1.4/lib/slf4j-simple-1.7.10.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.slf4j.helpers.NOPLoggerFactory]
+2020-04-19 15:07:40:04S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-04-19 15:32:34:04S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main finish:Cognizant Intelligent Test Scripter IDE has been Terminated - [ Total Time : 0:25:01.682 ]
+2020-04-19 15:37:49:04S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main main:Launching Cognizant Intelligent Test Scripter IDE
+2020-04-19 15:37:50:04S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-04-19 15:37:51:04S +0530 [INFO] com.cognizant.cognizantits.engine.drivers.ChromeEmulators load:Loading ChromeEmulators from file
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/home/m/Documents/Docker-CITS/CITS-UI/1.4/lib/slf4j-nop-1.7.28.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/home/m/Documents/Docker-CITS/CITS-UI/1.4/lib/slf4j-simple-1.7.10.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.slf4j.helpers.NOPLoggerFactory]
+2020-04-19 15:37:58:04S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-04-19 15:40:41:04S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main finish:Cognizant Intelligent Test Scripter IDE has been Terminated - [ Total Time : 0:02:52.064 ]
+2020-04-19 15:40:51:04S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main main:Launching Cognizant Intelligent Test Scripter IDE
+2020-04-19 15:40:52:04S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-04-19 15:40:53:04S +0530 [INFO] com.cognizant.cognizantits.engine.drivers.ChromeEmulators load:Loading ChromeEmulators from file
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/home/m/Documents/Docker-CITS/CITS-UI/1.4/lib/slf4j-nop-1.7.28.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/home/m/Documents/Docker-CITS/CITS-UI/1.4/lib/slf4j-simple-1.7.10.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.slf4j.helpers.NOPLoggerFactory]
+2020-04-19 15:40:58:04S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-04-19 16:31:24:04S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main finish:Cognizant Intelligent Test Scripter IDE has been Terminated - [ Total Time : 0:50:32.418 ]
+2020-04-19 16:49:31:04S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main main:Launching Cognizant Intelligent Test Scripter IDE
+2020-04-19 16:49:33:04S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-04-19 16:49:35:04S +0530 [INFO] com.cognizant.cognizantits.engine.drivers.ChromeEmulators load:Loading ChromeEmulators from file
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/home/m/Documents/Docker-CITS/CITS-UI/1.4/lib/slf4j-nop-1.7.28.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/home/m/Documents/Docker-CITS/CITS-UI/1.4/lib/slf4j-simple-1.7.10.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.slf4j.helpers.NOPLoggerFactory]
+2020-04-19 16:50:00:04S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-04-19 16:52:46:04S +0530 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils renameFile:/home/m/Documents/Docker-CITS/CITS-UI/1.4/Projects/Bing/ObjectRepository/WPage0/WObject0 Renamed to search
+2020-04-19 16:52:46:04S +0530 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils renameFile:/home/m/Documents/Docker-CITS/CITS-UI/1.4/Projects/Bing/ObjectRepository/WPage0/search/WObject0 Renamed to search
+2020-04-19 16:53:28:04S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-04-19 16:57:07:04S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-04-19 16:57:44:04S +0530 [SEVERE] com.cognizant.cognizantits.datalib.component.utils.FileUtils getRecords:File [/home/m/Documents/Docker-CITS/CITS-UI/1.4/Projects/Bing/TestLab/NewRelease/NewTestSet.csv] doesn't exist
+2020-04-19 16:58:11:04S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-04-19 16:58:49:04S +0530 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils renameFile:/home/m/Documents/Docker-CITS/CITS-UI/1.4/Projects/Bing/TestPlan/NewScenario/NewTestCase.csv Renamed to launch_Bing.csv
+2020-04-19 16:58:49:04S +0530 [INFO] com.cognizant.cognizantits.datalib.component.Project refactorTestCase:Refactoring started for TestCase [NewTestCase] to [launch_Bing]
+2020-04-19 16:58:49:04S +0530 [INFO] com.cognizant.cognizantits.datalib.component.Project refactorTestCase:Refactoring done for TestCase [NewTestCase] to [launch_Bing]
+2020-04-19 16:59:05:04S +0530 [SEVERE] com.cognizant.cognizantits.datalib.component.utils.FileUtils getRecords:File [/home/m/Documents/Docker-CITS/CITS-UI/1.4/Projects/Bing/TestPlan/NewScenario/NewTestCase.csv] doesn't exist
+2020-04-19 16:59:14:04S +0530 [INFO] com.cognizant.cognizantits.ide.main.mainui.components.testdesign.tree.ProjectTree deleteTestCases:Delete TestCases approved for 1; [launch_Bing]
+2020-04-19 16:59:14:04S +0530 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils deleteFile:Deleting /home/m/Documents/Docker-CITS/CITS-UI/1.4/Projects/Bing/TestPlan/NewScenario/launch_Bing.csv
+2020-04-19 16:59:17:04S +0530 [SEVERE] com.cognizant.cognizantits.datalib.component.utils.FileUtils getRecords:File [/home/m/Documents/Docker-CITS/CITS-UI/1.4/Projects/Bing/TestPlan/NewScenario/NewTestCase0.csv] doesn't exist
+2020-04-19 16:59:27:04S +0530 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils renameFile:/home/m/Documents/Docker-CITS/CITS-UI/1.4/Projects/Bing/TestPlan/NewScenario/NewTestCase0.csv Renamed to launch_bing.csv
+2020-04-19 16:59:27:04S +0530 [INFO] com.cognizant.cognizantits.datalib.component.Project refactorTestCase:Refactoring started for TestCase [NewTestCase0] to [launch_bing]
+2020-04-19 16:59:27:04S +0530 [INFO] com.cognizant.cognizantits.datalib.component.Project refactorTestCase:Refactoring done for TestCase [NewTestCase0] to [launch_bing]
+2020-04-19 16:59:43:04S +0530 [INFO] com.cognizant.cognizantits.ide.main.mainui.components.testdesign.tree.ProjectTree deleteTestCases:Delete TestCases approved for 1; [NewTestCase]
+2020-04-19 16:59:43:04S +0530 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils deleteFile:Deleting /home/m/Documents/Docker-CITS/CITS-UI/1.4/Projects/Bing/TestPlan/NewScenario/NewTestCase.csv
+2020-04-19 17:00:45:04S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-04-19 18:11:45:04S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main finish:Cognizant Intelligent Test Scripter IDE has been Terminated - [ Total Time : 1:22:13.574 ]
+2020-04-19 21:58:47:04S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main main:Launching Cognizant Intelligent Test Scripter IDE
+2020-04-19 21:58:49:04S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-04-19 21:58:51:04S +0530 [INFO] com.cognizant.cognizantits.engine.drivers.ChromeEmulators load:Loading ChromeEmulators from file
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/home/m/Documents/Docker-CITS/CITS-UI/1.4/lib/slf4j-nop-1.7.28.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/home/m/Documents/Docker-CITS/CITS-UI/1.4/lib/slf4j-simple-1.7.10.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.slf4j.helpers.NOPLoggerFactory]
+2020-04-19 22:00:36:04S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-04-19 22:02:49:04S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-04-19 22:04:30:04S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-04-19 22:06:02:04S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-04-19 22:09:29:04S +0530 [INFO] com.cognizant.cognizantits.ide.main.help.Help openInBrowser:Opening url https://cognizantqahub.github.io/Cognizant-Intelligent-Test-Scripter-Helpdoc
+2020-04-19 22:45:05:04S +0530 [INFO] com.cognizant.cognizantits.ide.main.help.Help openInBrowser:Opening url https://cognizantqahub.github.io/Cognizant-Intelligent-Test-Scripter-Helpdoc
+2020-04-19 22:46:35:04S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-04-19 22:47:23:04S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-04-19 22:49:08:04S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-04-19 22:50:07:04S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-04-19 22:50:31:04S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-04-19 22:51:00:04S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-04-19 22:51:30:04S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-04-19 22:54:01:04S +0530 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils renameFile:/home/m/Documents/Docker-CITS/CITS-UI/1.4/Projects/Bing/ObjectRepository/WPage0/WObject0 Renamed to images
+2020-04-19 22:54:01:04S +0530 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils renameFile:/home/m/Documents/Docker-CITS/CITS-UI/1.4/Projects/Bing/ObjectRepository/WPage0/images/WObject0 Renamed to images
+2020-04-19 22:56:14:04S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-04-19 22:57:21:04S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-04-19 22:58:12:04S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-04-19 23:00:09:04S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-04-19 23:00:50:04S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-04-19 23:02:00:04S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-04-19 23:03:04:04S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-04-19 23:04:19:04S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-04-19 23:09:05:04S +0530 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils renameFile:/home/m/Documents/Docker-CITS/CITS-UI/1.4/Projects/Bing/ObjectRepository/WPage0/WObject0 Renamed to type1
+2020-04-19 23:09:05:04S +0530 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils renameFile:/home/m/Documents/Docker-CITS/CITS-UI/1.4/Projects/Bing/ObjectRepository/WPage0/type1/WObject0 Renamed to type1
+2020-04-19 23:09:18:04S +0530 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils renameFile:/home/m/Documents/Docker-CITS/CITS-UI/1.4/Projects/Bing/ObjectRepository/WPage0/type1 Renamed to clipart
+2020-04-19 23:09:18:04S +0530 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils renameFile:/home/m/Documents/Docker-CITS/CITS-UI/1.4/Projects/Bing/ObjectRepository/WPage0/clipart/type1 Renamed to clipart
+2020-04-19 23:10:06:04S +0530 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils renameFile:/home/m/Documents/Docker-CITS/CITS-UI/1.4/Projects/Bing/ObjectRepository/WPage0 Renamed to Search
+2020-04-19 23:10:59:04S +0530 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils renameFile:/home/m/Documents/Docker-CITS/CITS-UI/1.4/Projects/Bing/ObjectRepository/Search/WObject0 Renamed to linedrawing
+2020-04-19 23:10:59:04S +0530 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils renameFile:/home/m/Documents/Docker-CITS/CITS-UI/1.4/Projects/Bing/ObjectRepository/Search/linedrawing/WObject0 Renamed to linedrawing
+2020-04-19 23:11:28:04S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-04-19 23:11:55:04S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-04-19 23:13:00:04S +0530 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils renameFile:/home/m/Documents/Docker-CITS/CITS-UI/1.4/Projects/Bing/ObjectRepository/Search/WObject0 Renamed to filter
+2020-04-19 23:13:00:04S +0530 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils renameFile:/home/m/Documents/Docker-CITS/CITS-UI/1.4/Projects/Bing/ObjectRepository/Search/filter/WObject0 Renamed to filter
+2020-04-19 23:13:52:04S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-04-19 23:14:34:04S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-04-19 23:15:40:04S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-04-19 23:22:53:04S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-04-19 23:23:51:04S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-04-19 23:24:49:04S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-04-19 23:51:16:04S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main finish:Cognizant Intelligent Test Scripter IDE has been Terminated - [ Total Time : 1:52:29.100 ]
+2020-04-20 10:16:25:04S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main main:Launching Cognizant Intelligent Test Scripter IDE
+2020-04-20 10:16:31:04S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-04-20 10:16:33:04S +0530 [INFO] com.cognizant.cognizantits.engine.drivers.ChromeEmulators load:Loading ChromeEmulators from file
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/home/m/Documents/Docker-CITS/CITS-UI/1.4/lib/slf4j-nop-1.7.28.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/home/m/Documents/Docker-CITS/CITS-UI/1.4/lib/slf4j-simple-1.7.10.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.slf4j.helpers.NOPLoggerFactory]
+2020-04-20 10:25:23:04S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-04-20 10:26:43:04S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-04-20 10:27:28:04S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main finish:Cognizant Intelligent Test Scripter IDE has been Terminated - [ Total Time : 0:11:02.082 ]
+2020-04-20 10:27:36:04S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main main:Launching Cognizant Intelligent Test Scripter IDE
+2020-04-20 10:27:38:04S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-04-20 10:27:39:04S +0530 [INFO] com.cognizant.cognizantits.engine.drivers.ChromeEmulators load:Loading ChromeEmulators from file
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/home/m/Documents/Docker-CITS/CITS-UI/1.4/lib/slf4j-nop-1.7.28.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/home/m/Documents/Docker-CITS/CITS-UI/1.4/lib/slf4j-simple-1.7.10.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.slf4j.helpers.NOPLoggerFactory]
+2020-04-20 10:27:49:04S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-04-20 10:28:58:04S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-04-20 10:42:53:04S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-04-20 10:43:30:04S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-04-20 10:46:16:04S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-04-20 10:50:36:04S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-04-20 12:13:19:04S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-04-20 14:36:37:04S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main main:Launching Cognizant Intelligent Test Scripter IDE
+2020-04-20 14:36:43:04S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-04-20 14:36:44:04S +0530 [INFO] com.cognizant.cognizantits.engine.drivers.ChromeEmulators load:Loading ChromeEmulators from file
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/home/m/Documents/Docker-CITS/CITS-UI/1.4/lib/slf4j-nop-1.7.28.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/home/m/Documents/Docker-CITS/CITS-UI/1.4/lib/slf4j-simple-1.7.10.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.slf4j.helpers.NOPLoggerFactory]
+2020-04-20 14:39:08:04S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-04-20 14:40:55:04S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-04-20 14:42:33:04S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-04-20 14:42:51:04S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-04-20 14:56:01:04S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main main:Launching Cognizant Intelligent Test Scripter IDE
+2020-04-20 14:56:12:04S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-04-20 14:56:15:04S +0530 [INFO] com.cognizant.cognizantits.engine.drivers.ChromeEmulators load:Loading ChromeEmulators from file
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/home/m/Documents/Docker-CITS/CITS-UI/1.4/lib/slf4j-nop-1.7.28.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/home/m/Documents/Docker-CITS/CITS-UI/1.4/lib/slf4j-simple-1.7.10.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.slf4j.helpers.NOPLoggerFactory]
+2020-04-20 15:35:39:04S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-04-20 16:25:22:04S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main finish:Cognizant Intelligent Test Scripter IDE has been Terminated - [ Total Time : 1:29:21.396 ]
+2020-04-20 16:27:43:04S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main main:Launching Cognizant Intelligent Test Scripter IDE
+2020-04-20 16:27:44:04S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-04-20 16:27:45:04S +0530 [INFO] com.cognizant.cognizantits.engine.drivers.ChromeEmulators load:Loading ChromeEmulators from file
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/home/m/Documents/Docker-CITS/CITS-UI/1.4/lib/slf4j-nop-1.7.28.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/home/m/Documents/Docker-CITS/CITS-UI/1.4/lib/slf4j-simple-1.7.10.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.slf4j.helpers.NOPLoggerFactory]
+2020-04-20 16:28:19:04S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-04-20 16:29:43:04S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-04-20 16:46:40:04S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main finish:Cognizant Intelligent Test Scripter IDE has been Terminated - [ Total Time : 0:18:56.491 ]
+2020-04-22 21:20:16:04S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main main:Launching Cognizant Intelligent Test Scripter IDE
+2020-04-22 21:20:20:04S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-04-22 21:20:21:04S +0530 [INFO] com.cognizant.cognizantits.engine.drivers.ChromeEmulators load:Loading ChromeEmulators from file
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/home/m/Documents/Docker-CITS/CITS-UI/1.4/lib/slf4j-nop-1.7.28.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/home/m/Documents/Docker-CITS/CITS-UI/1.4/lib/slf4j-simple-1.7.10.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.slf4j.helpers.NOPLoggerFactory]
+2020-04-22 21:20:36:04S +0530 [SEVERE] com.cognizant.cognizantits.datalib.component.utils.FileUtils getRecords:File [/home/m/Documents/Docker-CITS/CITS-UI/1.4/Projects/Bing/TestPlan/NewScenario/NewTestCase.csv] doesn't exist
+2020-04-22 21:21:00:04S +0530 [INFO] com.cognizant.cognizantits.datalib.component.utils.FileUtils renameFile:/home/m/Documents/Docker-CITS/CITS-UI/1.4/Projects/Bing/TestPlan/NewScenario/NewTestCase.csv Renamed to save_as.csv
+2020-04-22 21:21:00:04S +0530 [INFO] com.cognizant.cognizantits.datalib.component.Project refactorTestCase:Refactoring started for TestCase [NewTestCase] to [save_as]
+2020-04-22 21:21:00:04S +0530 [INFO] com.cognizant.cognizantits.datalib.component.Project refactorTestCase:Refactoring done for TestCase [NewTestCase] to [save_as]
+2020-04-22 21:21:19:04S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-04-22 21:22:15:04S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-04-22 21:22:33:04S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-04-22 21:29:45:04S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main main:Launching Cognizant Intelligent Test Scripter IDE
+2020-04-22 21:29:46:04S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4 .default/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-04-22 21:29:47:04S +0530 [INFO] com.cognizant.cognizantits.engine.drivers.ChromeEmulators load:Loading ChromeEmulators from file
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/home/m/Documents/Docker-CITS/CITS-UI/1.4%20.default/lib/slf4j-nop-1.7.28.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/home/m/Documents/Docker-CITS/CITS-UI/1.4%20.default/lib/slf4j-simple-1.7.10.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.slf4j.helpers.NOPLoggerFactory]
+2020-04-22 21:30:25:04S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4 .default/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-04-22 21:31:09:04S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4 .default/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-04-22 21:31:50:04S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4 .default/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-04-22 21:34:09:04S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4 .default/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-04-22 21:34:35:04S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4 .default/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-04-22 21:34:57:04S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4 .default/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-04-22 21:35:19:04S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4 .default/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-04-22 21:43:10:04S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4 .default/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-04-22 21:45:16:04S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main finish:Cognizant Intelligent Test Scripter IDE has been Terminated - [ Total Time : 0:15:30.536 ]
+2020-04-22 21:45:32:04S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main main:Launching Cognizant Intelligent Test Scripter IDE
+2020-04-22 21:45:34:04S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4 .default/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-04-22 21:45:34:04S +0530 [INFO] com.cognizant.cognizantits.engine.drivers.ChromeEmulators load:Loading ChromeEmulators from file
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/home/m/Documents/Docker-CITS/CITS-UI/1.4%20.default/lib/slf4j-nop-1.7.28.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/home/m/Documents/Docker-CITS/CITS-UI/1.4%20.default/lib/slf4j-simple-1.7.10.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.slf4j.helpers.NOPLoggerFactory]
+2020-04-22 21:45:56:04S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4 .default/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-04-22 21:46:51:04S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main finish:Cognizant Intelligent Test Scripter IDE has been Terminated - [ Total Time : 0:01:18.458 ]
+2020-04-23 03:31:58:04S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main main:Launching Cognizant Intelligent Test Scripter IDE
+2020-04-23 03:32:01:04S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4 .default/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-04-23 03:32:02:04S +0530 [INFO] com.cognizant.cognizantits.engine.drivers.ChromeEmulators load:Loading ChromeEmulators from file
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/home/m/Documents/Docker-CITS/CITS-UI/1.4%20.default/lib/slf4j-nop-1.7.28.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/home/m/Documents/Docker-CITS/CITS-UI/1.4%20.default/lib/slf4j-simple-1.7.10.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.slf4j.helpers.NOPLoggerFactory]
+2020-04-23 03:34:55:04S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4 .default/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-04-23 03:43:45:04S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main finish:Cognizant Intelligent Test Scripter IDE has been Terminated - [ Total Time : 0:11:46.370 ]
+2020-04-28 16:55:17:04S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main main:Launching Cognizant Intelligent Test Scripter IDE
+2020-04-28 16:55:20:04S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4 .default/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-04-28 16:55:22:04S +0530 [INFO] com.cognizant.cognizantits.engine.drivers.ChromeEmulators load:Loading ChromeEmulators from file
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/home/m/Documents/Docker-CITS/CITS-UI/1.4%20.default/lib/slf4j-nop-1.7.28.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/home/m/Documents/Docker-CITS/CITS-UI/1.4%20.default/lib/slf4j-simple-1.7.10.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.slf4j.helpers.NOPLoggerFactory]
+2020-04-28 16:55:51:04S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4 .default/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-04-28 17:48:12:04S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main finish:Cognizant Intelligent Test Scripter IDE has been Terminated - [ Total Time : 0:52:54.800 ]
+2020-04-29 21:17:12:04S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main main:Launching Cognizant Intelligent Test Scripter IDE
+2020-04-29 21:17:17:04S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4 .default/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-04-29 21:17:20:04S +0530 [INFO] com.cognizant.cognizantits.engine.drivers.ChromeEmulators load:Loading ChromeEmulators from file
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/home/m/Documents/Docker-CITS/CITS-UI/1.4%20.default/lib/slf4j-nop-1.7.28.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/home/m/Documents/Docker-CITS/CITS-UI/1.4%20.default/lib/slf4j-simple-1.7.10.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.slf4j.helpers.NOPLoggerFactory]
+2020-04-29 21:17:44:04S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4 .default/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-04-29 21:18:38:04S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4 .default/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-04-29 21:22:04:04S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main finish:Cognizant Intelligent Test Scripter IDE has been Terminated - [ Total Time : 0:04:51.922 ]
+2020-06-05 22:21:49:06S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main main:Launching Cognizant Intelligent Test Scripter IDE
+2020-06-05 22:21:53:06S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4 .default/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-06-05 22:21:55:06S +0530 [INFO] com.cognizant.cognizantits.engine.drivers.ChromeEmulators load:Loading ChromeEmulators from file
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/home/m/Documents/Docker-CITS/CITS-UI/1.4%20.default/lib/slf4j-nop-1.7.28.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/home/m/Documents/Docker-CITS/CITS-UI/1.4%20.default/lib/slf4j-simple-1.7.10.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.slf4j.helpers.NOPLoggerFactory]
+2020-06-05 22:22:21:06S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4 .default/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-06-05 22:24:38:06S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4 .default/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-06-05 22:48:46:06S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4 .default/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-06-05 22:50:39:06S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4 .default/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-06-05 23:26:22:06S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4 .default/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-06-05 23:30:39:06S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4 .default/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-06-05 23:35:50:06S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4 .default/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-06-05 23:43:52:06S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4 .default/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-06-05 23:49:34:06S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4 .default/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-06-06 02:36:05:06S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main finish:Cognizant Intelligent Test Scripter IDE has been Terminated - [ Total Time : 4:14:15.259 ]
+Exception in thread "JavaFX Application Thread" java.lang.NullPointerException
+	at com.sun.glass.ui.gtk.GtkApplication._runLoop(Native Method)
+	at com.sun.glass.ui.gtk.GtkApplication.lambda$runLoop$11(GtkApplication.java:277)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2020-06-07 13:46:14:06S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main main:Launching Cognizant Intelligent Test Scripter IDE
+2020-06-07 13:46:18:06S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4 .default/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-06-07 13:46:19:06S +0530 [INFO] com.cognizant.cognizantits.engine.drivers.ChromeEmulators load:Loading ChromeEmulators from file
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/home/m/Documents/Docker-CITS/CITS-UI/1.4%20.default/lib/slf4j-nop-1.7.28.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/home/m/Documents/Docker-CITS/CITS-UI/1.4%20.default/lib/slf4j-simple-1.7.10.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.slf4j.helpers.NOPLoggerFactory]
+2020-06-07 14:11:47:06S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main main:Launching Cognizant Intelligent Test Scripter IDE
+2020-06-07 14:11:49:06S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4 .default/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-06-07 14:11:51:06S +0530 [INFO] com.cognizant.cognizantits.engine.drivers.ChromeEmulators load:Loading ChromeEmulators from file
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/home/m/Documents/Docker-CITS/CITS-UI/1.4%20.default/lib/slf4j-nop-1.7.28.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/home/m/Documents/Docker-CITS/CITS-UI/1.4%20.default/lib/slf4j-simple-1.7.10.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.slf4j.helpers.NOPLoggerFactory]
+2020-06-07 16:37:41:06S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main main:Launching Cognizant Intelligent Test Scripter IDE
+2020-06-07 16:37:45:06S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4 .default/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-06-07 16:37:45:06S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4 .default/lib/commands/customfn.jar
+2020-06-07 16:37:46:06S +0530 [INFO] com.cognizant.cognizantits.engine.drivers.ChromeEmulators load:Loading ChromeEmulators from file
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/home/m/Documents/Docker-CITS/CITS-UI/1.4%20.default/lib/slf4j-nop-1.7.28.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/home/m/Documents/Docker-CITS/CITS-UI/1.4%20.default/lib/slf4j-simple-1.7.10.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.slf4j.helpers.NOPLoggerFactory]
+2020-06-07 16:38:43:06S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4 .default/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2020-06-07 16:38:43:06S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /home/m/Documents/Docker-CITS/CITS-UI/1.4 .default/lib/commands/customfn.jar
